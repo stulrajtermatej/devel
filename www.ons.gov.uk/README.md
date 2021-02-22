@@ -1,5 +1,8 @@
 # ONS
 ## Problem
+
+You have to separate series by year, quartal, week, daly to separate dataframes.
+
 ### download link
 
 <a href="https://www.ons.gov.uk/generator?format=csv&uri=/economy/grossdomesticproductgdp/timeseries/abmi/pn2">https://www.ons.gov.uk/generator?format=csv&uri=/economy/grossdomesticproductgdp/timeseries/abmi/pn2</a><br>
@@ -14,6 +17,4 @@
 
 <a href="https://www.ons.gov.uk/generator?format=csv&uri=/economy/grossdomesticproductgdp/timeseries/l2nc/pn2">https://www.ons.gov.uk/generator?format=csv&uri=/economy/grossdomesticproductgdp/timeseries/l2nc/pn2</a><br>
 
-
-2. separate series by year, quartal, week, daly to separate dataframes
 
