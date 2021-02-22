@@ -1,6 +1,6 @@
 # Developing and solving problems ...
 ## About
-<div>This repositary is used for freelancers</div>
+<div>This repositary is used for freelancers, collaborators, and community.</div>
 
 ## Developing
 
