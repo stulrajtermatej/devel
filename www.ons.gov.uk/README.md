@@ -1,7 +1,7 @@
 # ONS
 ## Problem
 
-You have to separate series by year, quartal, week, daly to separate dataframes.
+You have to separate series by year, quartal, week, daily to separate dataframes.
 
 ### download link
 
