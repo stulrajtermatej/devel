@@ -17,4 +17,8 @@ You have to separate series by year, quartal, week, daily to separate dataframes
 
 <a href="https://www.ons.gov.uk/generator?format=csv&uri=/economy/grossdomesticproductgdp/timeseries/l2nc/pn2">https://www.ons.gov.uk/generator?format=csv&uri=/economy/grossdomesticproductgdp/timeseries/l2nc/pn2</a><br>
 
+### done
+
+version 0.0.1 under development
+
 
